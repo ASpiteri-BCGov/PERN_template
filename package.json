@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "awesome-command": "index.js"
+    "pern": "index.js"
   },
   "author": "",
   "license": "ISC"
